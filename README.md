@@ -2,6 +2,9 @@
 
 ## Architecture
 
+We will follow MVC. Controller will be a builder.
+
+
 ## Contribution
 
 123123
